@@ -1,0 +1,22 @@
+{
+  "name": "tourneybot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgamini/tourneybot.git"
+  },
+  "author": "Garrett Amini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mgamini/tourneybot/issues"
+  },
+  "homepage": "https://github.com/mgamini/tourneybot#readme",
+  "dependencies": {
+    "slackbots": "^0.5.3"
+  }
+}
